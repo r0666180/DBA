@@ -31,4 +31,4 @@ def scraper():
 
 while True:
     scraper()
-time.sleep(60)
+    time.sleep(60)
